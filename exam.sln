@@ -1,25 +1,12 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.33801.447
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exam", "exam\exam.csproj", "{761D051D-A0EE-473B-96CE-60FFA37710FD}"
-EndProject
-Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{761D051D-A0EE-473B-96CE-60FFA37710FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{761D051D-A0EE-473B-96CE-60FFA37710FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{761D051D-A0EE-473B-96CE-60FFA37710FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{761D051D-A0EE-473B-96CE-60FFA37710FD}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {49E8FF56-EEFF-4357-8E77-35BE8DD200A5}
-	EndGlobalSection
-EndGlobal
+<html>
+
+<head>
+    <title>exam</title>
+</head>
+
+<body>
+    <h1>mayank bosamiya</h1>
+</body>
+
+</html>
